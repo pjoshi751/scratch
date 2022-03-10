@@ -3,19 +3,17 @@
 ### Overview
 this is a trial workshop sesion to assist us in underStanding the guidilines for writting mosip-related document.
 
-## sample content
+## types of documents
 
-### Exercise1
+### Type1
 
-*Re-write the paragraph below in Form of Bulleted list reducing the no. of Words*
+* the paragraph below in describes admin Portal*
 
 Using the admin portal, the administrator can now retrieve an INDIVIDUAL's lost rid or misplaced rid. Using the admin portal, the *admin* can now controll the levels of location hierarchy they required while creating the registration centres. The level of the hierarchy can be configured through configuration property value.
 Using the admin portal, the administrator can now map the users to a registration centre and to a zone
 Using the Admin portal, the administrator can now create and update dynamic fields such as Gender, Blood Type, Residence Status, Marital STATUS etc.Using the admin portal, the administrator can now configure the number of kiosks in a particular reg centre during the process of creating the registration centre.
 
-### Exercise 2 
-
-*Re-write the points below in the Form of numbered list reducing the no. of Words*
+### Type 2 
 
 Setting up Registration client
 
