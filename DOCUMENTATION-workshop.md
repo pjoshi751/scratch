@@ -1,13 +1,15 @@
-# Documentation Workshop 
+# documenatation workshop 
 
-## Overview
-The goal of this workshop session is to assist in understanding the guidelines for writing MOSIP related documentation.
+### Overview
+this is a trial workshop sesion to assist us in underStanding the guidilines for writting mosip-related document.
 
-## Types of documents
+## types of documents
 
 ### Type1
 
-Using the Admin Portal, the administrator can now retrieve a resident's lost RID or misplaced RID. Using the Admin Portal, the administrator can now control the levels of location hierarchy they required while creating the registration centres. The level of the hierarchy can be configured through configuration property value.
+_the paragraph below in describes admin Portal_
+
+Using the admin portal, the administrator can now retrieve an INDIVIDUAL's lost rid or misplaced rid. Using the admin portal, the *admin* can now controll the levels of location hierarchy they required while creating the registration centres. The level of the hierarchy can be configured through configuration property value.
 Using the admin portal, the administrator can now map the users to a registration centre and to a zone
 Using the Admin portal, the administrator can now create and update dynamic fields such as Gender, Blood Type, Residence Status, Marital STATUS etc.Using the admin portal, the administrator can now configure the number of kiosks in a particular reg centre during the process of creating the registration centre.
 
