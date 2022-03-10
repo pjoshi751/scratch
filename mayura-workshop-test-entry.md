@@ -1,4 +1,4 @@
-# documenatation workshop 
+# Documenatation Workshop 
 
 ### Overview
 this is a trial workshop sesion to assist us in underStanding the guidilines for writting mosip-related document.
