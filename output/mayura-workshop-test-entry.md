@@ -20,9 +20,18 @@ Steps for setting up Registration Client:
 
 * Step 1: Download TPM utility and run it the to get machine keys. Please find the instructions to check out, build and run the utility [here]().
 
-* Step 2: Whitelist the machine keys in server db. Machine name and keys output from utility should be updated in server. Use the below api to create / whitelist your machine. 
+* Step 2: Whitelist the machine keys in server db. 
+
+    Machine name and keys output from TPM utility should be updated in server. Use the below api to create / whitelist your machine. 
    ```curl -X POST "https://<HOSTNAME>/v1/masterdata/machine ```
-   
-  **NOTE: 
-    -> Replace appropriate HOSTNAME in the above curl command
-    -> In case, we are trying to whitelist NON-TPM machine, Please set publicKey and signPublicKey with same value 
+    
+    **Points to note: 
+    * Replace appropriate ```HOSTNAME``` in the above ```curl``` command
+    * To whitelist non TPM machine, set ```publicKey``` and ```signPublicKey``` with same value 
+
+* Step 3: Know your user id and required roles. 
+    * Create the user in the Keycloak.     
+    * Map the user to same center as that of the machine that is created/whitelisted in Step 2.
+    * One of these roles must be assigned to the user in Keycloak - REGISTRATION_SUPERVISOR or REGISTRATION_OFFICER.
+
+* Step 4: Download Rregistration Client on the regisered machine and run it. You can now use above user Id to login into it.
