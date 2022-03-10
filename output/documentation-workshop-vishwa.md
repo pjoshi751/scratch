@@ -29,7 +29,9 @@ _Setting up registration client_
 
         Use the below API to create or whitelist your machine  
 
-        ```curl -X POST "https://<HOSTNAME>/v1/masterdata/machine```
+        ```
+        curl -X POST "https://<HOSTNAME>/v1/masterdata/machine
+        ```
 
         NOTE:   
             Replace appropriate **HOSTNAME** in the above curl command  
