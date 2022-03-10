@@ -26,14 +26,14 @@ Find the instructions to check out, build and run the utility.
 Step:2 Whitelist the machine keys in server db
 Machine names and keys output from utility should be updated in server.
 
-use the below api to create/whitelist your machine
+use the below api to create/whitelist your machine  
 curl -X POST "https://<HOSTNAME>/v1/masterdata/machine
 
 NOTE : 
--> Replace appropriate HOSTNAME in the above curl command
+-> Replace appropriate HOSTNAME in the above curl command.    
 -> In case trying to whitelist NON-TPM machine set publickey and signpublickey with same value.
 
-step3: Know your userId and required roles
+Step3: Know your userId and required roles
 Create the user in the keycloak.
 
 Map the user to same center as that of the machine that is created/whitelisted in Step2.
