@@ -1,9 +1,9 @@
-# documenatation workshop 
+# Documentation Workshop 
 
-### Overview
-this is a trial workshop sesion to assist us in underStanding the guidilines for writting mosip-related document.
+## Overview
+This is a trial workshop sesion to assist us in underStanding the guidelines for writting MOSIP-related document.
 
-## types of documents
+### Types of documents
 
 ### Type1
 
