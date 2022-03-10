@@ -7,7 +7,7 @@ this is a trial workshop sesion to assist us in underStanding the guidilines for
 
 ### Type1
 
-* the paragraph below in describes admin Portal*
+_the paragraph below in describes admin Portal_
 
 Using the admin portal, the administrator can now retrieve an INDIVIDUAL's lost rid or misplaced rid. Using the admin portal, the *admin* can now controll the levels of location hierarchy they required while creating the registration centres. The level of the hierarchy can be configured through configuration property value.
 Using the admin portal, the administrator can now map the users to a registration centre and to a zone
