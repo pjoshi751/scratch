@@ -13,7 +13,7 @@ Using the admin portal, the administrator can now retrieve an individual's lost 
 
 ### Type 2 
 
-Setting up Registration client
+_Setting up Registration client_
 
 Step-1: Download the TPM utility and run it to get machine keys. Please find the instructions to check out, build and run the utility here.
 
