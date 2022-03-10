@@ -10,11 +10,11 @@ This is a trial workshop session to assist in understanding the guidelines for w
 The paragraph below describes admin portal
 
 Using the admin portal, the administrator can 
--> retrieve an individual's lost rid or misplaced rid.
--> control the level of location hierarchy which can be configured through properties file, required for creating registration centres.  
--> map the users to registration centre and zone.
--> create and update dynamic fields such as gender, blood type, residence status, marital status etc.
--> configure number of kiosks for a particular registration centre while creating.
+-> retrieve an individual's lost rid or misplaced rid.   
+-> control the level of location hierarchy which can be configured through properties file, required for creating registration centres.    
+-> map the users to registration centre and zone.  
+-> create and update dynamic fields such as gender, blood type, residence status, marital status etc.  
+-> configure number of kiosks for a particular registration centre while creating.  
 
 ### Type 2 
 
